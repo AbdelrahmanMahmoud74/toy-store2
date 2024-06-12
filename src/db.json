@@ -1,0 +1,26 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "لعبة تركيب الأشكال",
+        "description": "لعبة تعليمية ممتعة لتطوير مهارات الطفل.",
+        "price": "$20",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 2,
+        "name": "دمية محشوة",
+        "description": "دمية ناعمة وآمنة للأطفال.",
+        "price": "$15",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 3,
+        "name": "سيارة لعبة",
+        "description": "سيارة سريعة ولعبة ممتعة للأطفال.",
+        "price": "$25",
+        "image": "https://via.placeholder.com/150"
+      }
+    ]
+  }
+    
